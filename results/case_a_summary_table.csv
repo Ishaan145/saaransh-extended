@@ -1,0 +1,16 @@
+metric,value
+n_comments,1000
+sentiment_backend,heuristic
+RGI,3.2721
+n_active_cells,665
+raw_mean_opinion,-0.0263
+raw_support_share,0.487
+raw_oppose_share,0.430
+raw_neutral_share,0.083
+raw_verdict,neutral
+RCO_point,-0.1675
+RCO_CrI_lo,-0.1738
+RCO_CrI_hi,-0.1611
+RCO_verdict,oppose
+verdict_flipped,True
+shift_rco_minus_raw,-0.1412

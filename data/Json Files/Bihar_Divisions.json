@@ -1,0 +1,1561 @@
+{
+  "divisions": [
+    {
+      "name": "Bhagalpur",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.36
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.5
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.177
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.835
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.205
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.006
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.35
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.631
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Darbhanga",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.36
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.51
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.302
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.815
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.175
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.004
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.0
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.22
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.566
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.75
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Kosi",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.355
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.52
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.319
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.825
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.21
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.01
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.0
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.18
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.54
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.625
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Magadh",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.355
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.52
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.407
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.83
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.19
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.025
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.3
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.637
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Munger",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.37
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.49
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.161
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.84
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.21
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.003
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.45
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.705
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Patna",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.36
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.51
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.246
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.825
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.195
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.002
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.42
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.707
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Purnia",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.35
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.53
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.343
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.78
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.19
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.008
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.0
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.15
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.0
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.511
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.5
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.0
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Saran",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.355
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.52
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.476
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.83
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.2
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.003
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.32
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.66
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.625
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    },
+    {
+      "name": "Tirhut",
+      "factors": [
+        {
+          "name": "1.1_Age_Mean",
+          "value": 0.35
+        },
+        {
+          "name": "1.2_Household_Size",
+          "value": 0.53
+        },
+        {
+          "name": "1.3_Sex_Ratio",
+          "value": 0.298
+        },
+        {
+          "name": "1.4_Urbanization_Category",
+          "value": "NaN"
+        },
+        {
+          "name": "1.5_Religion_Hindu_%",
+          "value": 0.82
+        },
+        {
+          "name": "1.6_Caste_SC_%",
+          "value": 0.18
+        },
+        {
+          "name": "1.7_Tribal_Concentration_%",
+          "value": 0.005
+        },
+        {
+          "name": "10.1_Internet_Connectivity",
+          "value": "NaN"
+        },
+        {
+          "name": "10.2_Digital_Literacy_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "10.3_Digital_Services_Access_0to100",
+          "value": 0.28
+        },
+        {
+          "name": "11.1_Pollution_Exposure_AQI",
+          "value": "NaN"
+        },
+        {
+          "name": "11.2_Climate_Vulnerability_Scale",
+          "value": "NaN"
+        },
+        {
+          "name": "11.3_Green_Space_Access_%",
+          "value": "NaN"
+        },
+        {
+          "name": "12.1_Citizenship_Status",
+          "value": "NaN"
+        },
+        {
+          "name": "12.2_Criminal_Record_Yes_%",
+          "value": "NaN"
+        },
+        {
+          "name": "13.1_Policy_Awareness_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "2.1_Income_Per_Capita_\u20b9year",
+          "value": "NaN"
+        },
+        {
+          "name": "2.2_Poverty_Below_Line_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.3_Literacy_Rate_%",
+          "value": 0.615
+        },
+        {
+          "name": "2.4_Education_Level_Secondary_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.5_Occupation_Agriculture_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.6_Employment_Formal_%",
+          "value": "NaN"
+        },
+        {
+          "name": "2.7_Wealth_Quintile_Q1_%",
+          "value": "NaN"
+        },
+        {
+          "name": "3.1_Caste_Consciousness_Scale",
+          "value": 0.625
+        },
+        {
+          "name": "3.2_Risk_Tolerance_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "3.3_Institutional_Trust_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "3.4_Change_Adaptability_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.1_Healthcare_Access_Scale",
+          "value": 0.375
+        },
+        {
+          "name": "4.2_Health_Literacy_Scale",
+          "value": 0.125
+        },
+        {
+          "name": "4.3_Nutritional_Status_Stunting_%",
+          "value": "NaN"
+        },
+        {
+          "name": "4.4_Disease_Risk_0to100",
+          "value": "NaN"
+        },
+        {
+          "name": "5.1_Income_Stability_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "5.2_Debt_Vulnerability_%",
+          "value": "NaN"
+        },
+        {
+          "name": "5.3_Savings_Rate_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.1_Housing_Type_Pucca_%",
+          "value": "NaN"
+        },
+        {
+          "name": "6.2_Housing_Cost_Burden_%",
+          "value": "NaN"
+        },
+        {
+          "name": "7.1_Commute_Time_Minutes",
+          "value": "NaN"
+        },
+        {
+          "name": "7.2_Transportation_Mode",
+          "value": "NaN"
+        },
+        {
+          "name": "7.3_Geographic_Mobility_Scale",
+          "value": 0.25
+        },
+        {
+          "name": "9.1_Voting_Behavior",
+          "value": "NaN"
+        },
+        {
+          "name": "9.2_Civic_Participation_Hours_Year",
+          "value": "NaN"
+        },
+        {
+          "name": "9.3_Media_Consumption",
+          "value": "NaN"
+        }
+      ]
+    }
+  ]
+}

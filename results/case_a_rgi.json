@@ -1,0 +1,156 @@
+{
+  "rgi": 3.272097508097217,
+  "n_participants": 1000,
+  "n_active_cells": 665,
+  "per_axis_kl": {
+    "age": 0.1533731648248192,
+    "sex": 0.1592462515921979,
+    "tier": 0.6312823782922061,
+    "region": 0.11264592639140875,
+    "education": 0.8211097759017193,
+    "income": 0.14322991047440609,
+    "caste": 0.18130705511976264
+  },
+  "top_under_represented": [
+    {
+      "cell": {
+        "age": "26_40",
+        "sex": "M",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d1_3",
+        "caste": "obc"
+      },
+      "deficit": 0.002097156095999982,
+      "participant_share": 0.0,
+      "population_share": 0.002097156095999982
+    },
+    {
+      "cell": {
+        "age": "26_40",
+        "sex": "M",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d6_8",
+        "caste": "obc"
+      },
+      "deficit": 0.002097156095999982,
+      "participant_share": 0.0,
+      "population_share": 0.002097156095999982
+    },
+    {
+      "cell": {
+        "age": "26_40",
+        "sex": "F",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d1_3",
+        "caste": "obc"
+      },
+      "deficit": 0.001998851903999983,
+      "participant_share": 0.0,
+      "population_share": 0.001998851903999983
+    },
+    {
+      "cell": {
+        "age": "26_40",
+        "sex": "F",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d6_8",
+        "caste": "obc"
+      },
+      "deficit": 0.001998851903999983,
+      "participant_share": 0.0,
+      "population_share": 0.001998851903999983
+    },
+    {
+      "cell": {
+        "age": "41_60",
+        "sex": "M",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d1_3",
+        "caste": "obc"
+      },
+      "deficit": 0.001747630079999985,
+      "participant_share": 0.0,
+      "population_share": 0.001747630079999985
+    },
+    {
+      "cell": {
+        "age": "41_60",
+        "sex": "M",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d6_8",
+        "caste": "obc"
+      },
+      "deficit": 0.001747630079999985,
+      "participant_share": 0.0,
+      "population_share": 0.001747630079999985
+    },
+    {
+      "cell": {
+        "age": "26_40",
+        "sex": "M",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "secondary",
+        "income": "d1_3",
+        "caste": "obc"
+      },
+      "deficit": 0.0016976977919999855,
+      "participant_share": 0.0,
+      "population_share": 0.0016976977919999855
+    },
+    {
+      "cell": {
+        "age": "26_40",
+        "sex": "M",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "secondary",
+        "income": "d6_8",
+        "caste": "obc"
+      },
+      "deficit": 0.0016976977919999855,
+      "participant_share": 0.0,
+      "population_share": 0.0016976977919999855
+    },
+    {
+      "cell": {
+        "age": "41_60",
+        "sex": "F",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d1_3",
+        "caste": "obc"
+      },
+      "deficit": 0.0016657099199999857,
+      "participant_share": 0.0,
+      "population_share": 0.0016657099199999857
+    },
+    {
+      "cell": {
+        "age": "41_60",
+        "sex": "F",
+        "tier": "rural",
+        "region": "hindi_belt",
+        "education": "below_secondary",
+        "income": "d6_8",
+        "caste": "obc"
+      },
+      "deficit": 0.0016657099199999857,
+      "participant_share": 0.0,
+      "population_share": 0.0016657099199999857
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "file_name": "Gujarat_CIVI-GENESIS_Four_Divisions_Complete",
+  "sheets": [
+    {
+      "name": "Regions_Summary",
+      "rows": [
+        [
+          "Region",
+          "Key Districts",
+          "Population (Est)",
+          "Key Communities",
+          "Geography",
+          "Urbanization",
+          "Key Economy",
+          "Literacy (%)",
+          "Income (₹K)",
+          "Poverty (%)",
+          "Agriculture (%)",
+          "Formal Employment (%)",
+          "SC/ST (%)",
+          "Stunting (%)",
+          "Healthcare (0-100)",
+          "Digital Access (%)",
+          "Sex Ratio",
+          "Status"
+        ],
+        [
+          "Central Gujarat",
+          "Vadodara, Anand, Kheda, Panchmahal, Dahod, Mahisagar",
+          "6.2M",
+          "Central Gujarati, mixed Hindu-Muslim, tribal (Bhil, Dhodia)",
+          "Fertile plains, Narmada valley, 50-200m",
+          "Semi-Urban",
+          "Agriculture, dairy, chemicals, pharma",
+          "76.2",
+          "184",
+          "18.4",
+          "38.0",
+          "42.0",
+          "22.6",
+          "39.0",
+          "74",
+          "54",
+          "892",
+          "Agricultural-Industrial"
+        ],
+        [
+          "North Gujarat",
+          "Gandhinagar, Mehsana, Sabarkantha, Aravalli, Patan",
+          "3.8M",
+          "North Gujarati, Hindu majority, Jats, Patels",
+          "Semi-arid plateau, Aravalli hills, 200-800m",
+          "Rural-Semi-Urban",
+          "Dairy, agro-industries, admin hub",
+          "78.4",
+          "172",
+          "22.8",
+          "42.0",
+          "38.0",
+          "18.4",
+          "42.6 (CRISIS)",
+          "68",
+          "48",
+          "886",
+          "Dairy-Transitional"
+        ],
+        [
+          "Saurashtra",
+          "Rajkot, Jamnagar, Junagadh, Porbandar, Amreli, Bhavnagar",
+          "7.4M",
+          "Saurashtrian, Hindu majority, maritime communities",
+          "Coastal peninsula, fertile valleys, 0-200m",
+          "Semi-Urban",
+          "Ports, fishing, manufacturing, ceramics",
+          "79.8",
+          "196",
+          "16.2",
+          "32.0",
+          "48.0",
+          "14.2",
+          "26.4",
+          "78",
+          "62",
+          "902",
+          "Coastal-Prosperous"
+        ],
+        [
+          "Kutch (Desert)",
+          "Kutch",
+          "2.1M",
+          "Kutchi, Sindhi, nomadic pastoralists",
+          "Desert, salt marshes, ports, 0-600m",
+          "Urban",
+          "Salt, ports, textiles, handicrafts, tourism",
+          "70.6",
+          "168",
+          "20.8",
+          "18.0",
+          "52.0",
+          "12.4",
+          "31.4",
+          "72",
+          "58",
+          "908",
+          "Port-Desert-Industrial"
+        ]
+      ]
+    },
+    {
+      "name": "Key_Disparities",
+      "rows": [
+        [
+          "Disparity Type",
+          "Central Guj",
+          "North Guj",
+          "Saurashtra",
+          "Kutch",
+          "Severity"
+        ],
+        [
+          "Literacy (%)",
+          "76.2",
+          "78.4",
+          "79.8",
+          "70.6",
+          "9.2-pt gap"
+        ],
+        [
+          "Income (₹K)",
+          "184",
+          "172",
+          "196",
+          "168",
+          "28K gap (16.7% diff)"
+        ],
+        [
+          "Poverty (%)",
+          "18.4",
+          "22.8",
+          "16.2",
+          "20.8",
+          "6.6-pt gap"
+        ],
+        [
+          "Stunting (%)",
+          "39.0",
+          "42.6",
+          "26.4",
+          "31.4",
+          "16.2-pt gap CRISIS"
+        ],
+        [
+          "Healthcare (0-100)",
+          "74",
+          "68",
+          "78",
+          "72",
+          "10-pt gap"
+        ],
+        [
+          "Formal Employment (%)",
+          "42.0",
+          "38.0",
+          "48.0",
+          "52.0",
+          "14-pt gap"
+        ],
+        [
+          "Digital Access (%)",
+          "54",
+          "48",
+          "62",
+          "58",
+          "14-pt gap"
+        ],
+        [
+          "SC/ST Concentration (%)",
+          "22.6",
+          "18.4",
+          "14.2",
+          "12.4",
+          "10.2-pt gap"
+        ],
+        [
+          "Sex Ratio",
+          "892",
+          "886",
+          "902",
+          "908",
+          "22-pt variation"
+        ],
+        [
+          "Agriculture Dependence (%)",
+          "38.0",
+          "42.0",
+          "32.0",
+          "18.0",
+          "24-pt gap"
+        ]
+      ]
+    },
+    {
+      "name": "Regional_Profiles",
+      "rows": [
+        [
+          "Region",
+          "Development Stage",
+          "Economic Base",
+          "Key Challenges",
+          "Opportunities"
+        ],
+        [
+          "Central Gujarat",
+          "Growth",
+          "Agri-industrial blend",
+          "High malnutrition (39%), tribal pockets",
+          "Pharma expansion, dairy value chain"
+        ],
+        [
+          "North Gujarat",
+          "Transition",
+          "Dairy + Agriculture",
+          "Highest malnutrition (42.6%), poverty (22.8%)",
+          "Cooperative strengthening, agro-processing"
+        ],
+        [
+          "Saurashtra",
+          "Prosperous",
+          "Ports + Manufacturing",
+          "Tourism seasonality, maritime safety",
+          "Port expansion, fishing modernization"
+        ],
+        [
+          "Kutch",
+          "Industrial",
+          "Desert Economy",
+          "Low literacy (70.6%), water scarcity",
+          "Port development, renewable energy"
+        ]
+      ]
+    },
+    {
+      "name": "Development_Priorities",
+      "rows": [
+        [
+          "Region",
+          "Priority Level",
+          "Focus Area",
+          "Action Items",
+          "Target Outcome"
+        ],
+        [
+          "Central Gujarat",
+          "Growth-1",
+          "Malnutrition Crisis",
+          "ICDS expansion, nutrition programs, tribal focus",
+          "Reduce stunting to less than 30%"
+        ],
+        [
+          "Central Gujarat",
+          "Growth-2",
+          "Tribal Welfare",
+          "FRA implementation, skill training, market linkage",
+          "Improve tribal income by 25%"
+        ],
+        [
+          "North Gujarat",
+          "EMERGENCY",
+          "Malnutrition (42.6%)",
+          "Targeted nutrition, ICDS, maternal health",
+          "Reduce stunting to less than 30%"
+        ],
+        [
+          "North Gujarat",
+          "Transition-2",
+          "Income Generation",
+          "Cooperative strengthening, value addition",
+          "Achieve 190K rupees per capita income"
+        ],
+        [
+          "Saurashtra",
+          "Growth-1",
+          "Port Expansion",
+          "Infrastructure upgrades, cargo handling",
+          "Achieve 210K rupees per capita income"
+        ],
+        [
+          "Saurashtra",
+          "Growth-2",
+          "Manufacturing Hub",
+          "Ceramic clusters, fishing modernization",
+          "Double manufacturing output"
+        ],
+        [
+          "Kutch",
+          "Industrial-1",
+          "Port Infrastructure",
+          "International connectivity, logistics hubs",
+          "Achieve 200K rupees per capita income"
+        ],
+        [
+          "Kutch",
+          "Industrial-2",
+          "Renewable Energy",
+          "Solar parks, wind turbines, green manufacturing",
+          "Export surplus green energy"
+        ],
+        [
+          "State-Wide",
+          "Strategic",
+          "Regional Integration",
+          "Inter-divisional connectivity, unified policies",
+          "Reduce regional inequality"
+        ]
+      ]
+    },
+    {
+      "name": "Data_Sources_Credibility",
+      "rows": [
+        [
+          "Parameter",
+          "Data Source",
+          "Collection Year",
+          "Coverage",
+          "Credibility"
+        ],
+        [
+          "Literacy & Demographics",
+          "Census 2011",
+          "2011",
+          "All districts",
+          "HIGH"
+        ],
+        [
+          "Stunting & Health",
+          "NFHS-5 2019-20",
+          "2019-20",
+          "State and districts",
+          "HIGH"
+        ],
+        [
+          "Employment",
+          "PLFS 2023-24",
+          "2023-24",
+          "State-level survey",
+          "HIGH"
+        ],
+        [
+          "Per Capita Income",
+          "Economic Survey 2023-24",
+          "2023-24",
+          "State-level",
+          "HIGH"
+        ],
+        [
+          "Poverty Rate",
+          "Economic Survey 2023-24",
+          "2023-24",
+          "State estimate",
+          "HIGH"
+        ],
+        [
+          "Healthcare Infrastructure",
+          "Health Dossier 2021",
+          "2021",
+          "Administrative data",
+          "HIGH"
+        ],
+        [
+          "Sex Ratio",
+          "Census 2011",
+          "2011",
+          "District-level",
+          "HIGH"
+        ],
+        [
+          "SC/ST Population",
+          "Census 2011",
+          "2011",
+          "District enumeration",
+          "HIGH"
+        ],
+        [
+          "Digital Connectivity",
+          "BharatNet/PMGDISHA",
+          "2023-24",
+          "Administrative records",
+          "HIGH"
+        ]
+      ]
+    },
+    {
+      "name": "Unique_Characteristics",
+      "rows": [
+        [
+          "Characteristic",
+          "Details",
+          "Impact Level"
+        ],
+        [
+          "Regional Diversity",
+          "4 distinct geographic zones within single state",
+          "Complex governance"
+        ],
+        [
+          "Literacy Variation",
+          "9.2-point gap between regions",
+          "Significant disparity"
+        ],
+        [
+          "Income Inequality",
+          "28K gap (16.7% difference)",
+          "Major inequality"
+        ],
+        [
+          "Malnutrition Crisis",
+          "16.2-point stunting gap - emergency in North Gujarat",
+          "Critical issue"
+        ],
+        [
+          "Desert Economy",
+          "Kutch unique salt, port, textile base",
+          "Specialized economy"
+        ],
+        [
+          "Coastal Advantages",
+          "Saurashtra/Kutch maritime economies outperforming",
+          "Strategic advantage"
+        ],
+        [
+          "Tribal Concentration",
+          "Central Gujarat highest tribal % (22.6%)",
+          "Development focus needed"
+        ],
+        [
+          "Port Infrastructure",
+          "Kutch/Saurashtra have strategic international ports",
+          "Strategic asset"
+        ],
+        [
+          "Agricultural Dependence",
+          "North Gujarat 42%, Kutch 18%",
+          "Subsistence risk in North"
+        ],
+        [
+          "Industrial Base",
+          "Central Gujarat pharma; Saurashtra manufacturing",
+          "Industrial strength"
+        ],
+        [
+          "Dairy Hub",
+          "North Gujarat cooperative model",
+          "Unique specialization"
+        ],
+        [
+          "Sex Ratio Advantage",
+          "Gujarat 902-908 highest in India",
+          "Positive demographic"
+        ],
+        [
+          "Water Scarcity",
+          "Kutch desert region challenge",
+          "Environmental issue"
+        ],
+        [
+          "GSDP Performance",
+          "8.0% growth 2023-24, 3rd largest state economy",
+          "Economic powerhouse"
+        ]
+      ]
+    }
+  ]
+}
