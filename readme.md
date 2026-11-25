@@ -65,3 +65,17 @@ sentiment backends:
 The Bayesian Reconstruction Layer and the RGI / RCO computations are
 fully implemented and are independent of which sentiment backend is
 active.
+
+## Citation
+
+If you use Saaransh in your research or projects, please cite our paper:
+
+```bibtex
+@inproceedings{saxena2026whose,
+  title={Whose Voice Counts? Bridging the Digital Consultation Gap with Multilingual {NLP} and Synthetic Citizen Population},
+  author={Saxena, Ishaan and Kukreja, Garv and Rajpoot, Manoj K.},
+  booktitle={7th International Conference on Social Computing},
+  year={2026},
+  url={https://openreview.net/forum?id=mlmtpftSVK}
+}
+```
